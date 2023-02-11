@@ -1,5 +1,5 @@
 # Son Güncelleme: 11/02/2023
-• Bu projede Java programlama dili ve PostgreSQL kullanılarak bir Kreş Bilgi Sistemi yapılmıştır. <br/>
+• Bu projede Java programlama dili, SWING kütüphanesi ve PostgreSQL kullanılarak bir Kreş Bilgi Sistemi yapılmıştır. <br/>
 • MainScreen.java dosyasında 16.satırdaki password değerini kendi PgAdmin şifrenizle değiştiriniz. <br/>
 • PgAdmin uygulamasında 'XYZKresi' adında bir veritabanı oluşturun ve 'Database.sql' dosyasını çalıştırın. Veritabanı oluştuktan sonra programı çalıştırabilirsiniz. <br/>
 • Programdan çıkmak için ana ekrana dönüş sağlamalısınız. <br/>
